@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Buttons -->
+    <style name="Widget.ArtopiaControl.Button" parent="Widget.Material3.Button">
+        <item name="cornerRadius">@dimen/radius_12</item>
+        <item name="android:minHeight">@dimen/button_height</item>
+        <item name="android:insetTop">0dp</item>
+        <item name="android:insetBottom">0dp</item>
+        <item name="android:textAppearance">@style/TextAppearance.ArtopiaControl.Button</item>
+    </style>
+
+    <!-- Outlined Button -->
+    <style name="Widget.ArtopiaControl.Button.Outlined" parent="Widget.Material3.Button.OutlinedButton">
+        <item name="cornerRadius">@dimen/radius_12</item>
+        <item name="strokeColor">@color/border_color</item>
+        <item name="strokeWidth">@dimen/border_width</item>
+        <item name="android:textColor">@color/text_primary</item>
+    </style>
+
+    <!-- Destructive Button -->
+    <style name="Widget.ArtopiaControl.Button.Destructive" parent="Widget.Material3.Button.TextButton">
+        <item name="cornerRadius">@dimen/radius_12</item>
+        <item name="android:textColor">@color/destructive_text</item>
+        <item name="backgroundTint">@color/destructive_bg</item>
+        <item name="iconTint">@color/destructive_text</item>
+    </style>
+
+    <!-- Cards -->
+    <style name="Widget.ArtopiaControl.CardView" parent="Widget.Material3.CardView.Elevated">
+        <item name="cardElevation">0dp</item>
+        <item name="cardCornerRadius">@dimen/radius_12</item>
+        <item name="cardBackgroundColor">@color/card_background</item>
+        <item name="strokeColor">@color/border_color</item>
+        <item name="strokeWidth">@dimen/border_width</item>
+    </style>
+
+    <!-- TextInput -->
+    <style name="Widget.ArtopiaControl.TextInputLayout" parent="Widget.Material3.TextInputLayout.OutlinedBox">
+        <item name="boxCornerRadiusTopStart">@dimen/radius_12</item>
+        <item name="boxCornerRadiusTopEnd">@dimen/radius_12</item>
+        <item name="boxCornerRadiusBottomStart">@dimen/radius_12</item>
+        <item name="boxCornerRadiusBottomEnd">@dimen/radius_12</item>
+        <item name="boxStrokeColor">@color/primary</item>
+        <item name="boxStrokeWidth">1dp</item>
+        <item name="boxStrokeWidthFocused">2dp</item>
+        <item name="hintTextColor">@color/primary</item>
+        <item name="android:textColorHint">@color/text_hint</item>
+    </style>
+
+    <!-- Typography -->
+    <style name="TextAppearance.ArtopiaControl.Heading" parent="TextAppearance.Material3.HeadlineSmall">
+        <item name="android:textSize">@dimen/text_heading</item>
+        <item name="android:textColor">@color/text_primary</item>
+        <item name="android:textStyle">bold</item>
+        <item name="fontFamily">sans-serif-condensed</item>
+    </style>
+
+    <style name="TextAppearance.ArtopiaControl.Body" parent="TextAppearance.Material3.BodyMedium">
+        <item name="android:textSize">@dimen/text_body</item>
+        <item name="android:textColor">@color/text_primary</item>
+        <item name="fontFamily">sans-serif</item>
+    </style>
+
+    <style name="TextAppearance.ArtopiaControl.BodySecondary" parent="TextAppearance.Material3.BodyMedium">
+        <item name="android:textSize">@dimen/text_body</item>
+        <item name="android:textColor">@color/text_secondary</item>
+        <item name="fontFamily">sans-serif</item>
+    </style>
+
+    <style name="TextAppearance.ArtopiaControl.Label" parent="TextAppearance.Material3.LabelMedium">
+        <item name="android:textSize">@dimen/text_label</item>
+        <item name="android:textColor">@color/text_secondary</item>
+        <item name="fontFamily">sans-serif-medium</item>
+    </style>
+
+    <style name="TextAppearance.ArtopiaControl.Button" parent="TextAppearance.Material3.LabelLarge">
+        <item name="android:textSize">@dimen/text_body</item>
+        <item name="android:textStyle">bold</item>
+        <item name="fontFamily">sans-serif-medium</item>
+    </style>
+</resources>

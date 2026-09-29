@@ -1,0 +1,66 @@
+<resources>
+    <string name="app_name">artopiaControl</string>
+    <string name="label_name">NAME</string>
+    <string name="label_email">EMAIL</string>
+    <string name="label_password">PASSWORD</string>
+    <string name="btn_login">Login</string>
+    <string name="forgot_password">Forgot Password?</string>
+    <string name="signup">Signup !</string>
+    <string name="label_confirm_password">CONFIRM PASSWORD</string>
+    <string name="btn_signup">Signup</string>
+    <string name="already_have_account">Already have an Account? </string>
+    <string name="new_here_prompt">New here? </string>
+    <string name="create_an_account">Create an account</string>
+
+    <!-- Redesign Strings -->
+    <string name="welcome_back_title">Welcome Back</string>
+    <string name="welcome_back_subtitle">Sign in to your account to continue</string>
+    <string name="create_account_title">Create Account</string>
+    <string name="create_account_subtitle">Fill in the details to get started</string>
+    <string name="hint_name_email">Name / Email</string>
+    <string name="hint_name">Name</string>
+    <string name="hint_email">Email</string>
+    <string name="hint_password">Password</string>
+    <string name="hint_confirm_password">Confirm Password</string>
+    <string name="or_text">OR</string>
+    <string name="login_text">Login</string>
+
+    <string name="welcome_back">Welcome Back, %1$s</string>
+    <string name="total_active_users">Total Active Users</string>
+    <string name="accounts">Accounts</string>
+    <string name="profile">Profile</string>
+    <string name="activity_log">Activity log</string>
+    <string name="nav_dashboard">Dashboard</string>
+    <string name="nav_students">Users</string>
+    <string name="nav_activity">Activity</string>
+    <string name="complete">Complete</string>
+    <string name="search_hint">Search</string>
+    <string name="status_offline">Offline</string>
+    <string name="status_active">Active</string>
+    <string name="tab_all_format">All (%1$d)</string>
+    <string name="tab_active_format">Active (%1$d)</string>
+    <string name="tab_offline_format">Offline (%1$d)</string>
+
+    <string name="account_details">Account details</string>
+    <string name="label_name_colon">Name</string>
+    <string name="label_email_colon">Email</string>
+    <string name="label_password_colon">Password</string>
+    <string name="label_age_colon">Age</string>
+    <string name="btn_edit">Edit Profile</string>
+    <string name="btn_reset_password">Reset User Password</string>
+
+    <string name="account_creation">Account Creation</string>
+    <string name="btn_create_send_email">Create and send Email</string>
+    <string name="btn_generate">Generate</string>
+    <string name="password_generated">Strong password generated</string>
+    <string name="profile_title">Profile</string>
+    <string name="btn_logout">Logout</string>
+    <string name="label_status">Status :</string>
+    <string name="label_role">Role :</string>
+    <string name="label_account_created">Account Created</string>
+    <string name="not_available">Not available</string>
+    <string name="label_role_caps">ROLE</string>
+    <string name="label_teacher">Teacher</string>
+    <string name="label_student">Students</string>
+    <string name="edit_title">Edit</string>
+</resources>

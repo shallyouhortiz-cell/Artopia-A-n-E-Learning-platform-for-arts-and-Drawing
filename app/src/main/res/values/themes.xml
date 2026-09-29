@@ -1,0 +1,23 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <style name="Theme.ArtopiaControl" parent="Theme.Material3.DayNight.NoActionBar">
+        <!-- Colors -->
+        <item name="colorPrimary">@color/primary</item>
+        <item name="colorOnPrimary">@color/text_on_primary</item>
+        <item name="android:colorBackground">@color/canvas_background</item>
+        <item name="colorOnBackground">@color/text_primary</item>
+        <item name="colorSurface">@color/card_background</item>
+        <item name="colorOnSurface">@color/text_primary</item>
+        <item name="colorOutline">@color/border_color</item>
+        <item name="colorError">@color/destructive_text</item>
+
+        <!-- Status Bar -->
+        <item name="android:statusBarColor">@color/canvas_background</item>
+        <item name="android:windowLightStatusBar">true</item>
+        <item name="android:navigationBarColor">@color/card_background</item>
+
+        <!-- Component Styles -->
+        <item name="materialButtonStyle">@style/Widget.ArtopiaControl.Button</item>
+        <item name="materialCardViewStyle">@style/Widget.ArtopiaControl.CardView</item>
+        <item name="textInputStyle">@style/Widget.ArtopiaControl.TextInputLayout</item>
+    </style>
+</resources>

@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Core Design System Colors -->
+    <color name="primary">#3E5C9A</color> <!-- Indigo for primary buttons and links -->
+    <color name="canvas_background">#F5F7FB</color> <!-- Neutral canvas background -->
+    <color name="card_background">#FFFFFF</color> <!-- White cards -->
+    <color name="border_color">#E6E9F0</color> <!-- Single border color -->
+
+    <!-- State Colors -->
+    <color name="success_text">#16A37E</color> <!-- Green for success/active -->
+    <color name="success_bg">#E8F6F2</color> <!-- Light green background chip -->
+
+    <color name="destructive_text">#D32F2F</color> <!-- Red/Coral for destructive actions -->
+    <color name="destructive_bg">#FDEAEA</color> <!-- Light red background chip -->
+
+    <!-- Text Colors -->
+    <color name="text_primary">#1C2025</color>
+    <color name="text_secondary">#5C6573</color>
+    <color name="text_hint">#A0AABF</color>
+    <color name="text_on_primary">#FFFFFF</color>
+
+    <!-- Legacy Colors for unused resources -->
+    <color name="artopia_primary">#3E5C9A</color>
+    <color name="artopia_background">#F5F7FB</color>
+    <color name="artopia_white">#FFFFFF</color>
+    <color name="artopia_text_primary">#1C2025</color>
+    <color name="artopia_text_secondary">#5C6573</color>
+    <color name="artopia_border">#E6E9F0</color>
+    <color name="artopia_green">#16A37E</color>
+    <color name="artopia_gray">#A0AABF</color>
+    <color name="artopia_accent_blue">#3E5C9A</color>
+    <color name="artopia_pale_red">#FDEAEA</color>
+    <color name="artopia_red">#D32F2F</color>
+    <color name="purple_primary">#9C27B0</color>
+    <color name="purple_dark">#7B1FA2</color>
+    <color name="green_accent">#8BC34A</color>
+    <color name="blue_secondary">#2196F3</color>
+    <color name="white">#FFFFFF</color>
+    <color name="black">#000000</color>
+    <color name="gray_light">#F5F5F5</color>
+    <color name="gray_medium">#9E9E9E</color>
+    <color name="red_error">#F44336</color>
+    <color name="status_banned">#FFCDD2</color>
+    <color name="status_active">#C8E6C9</color>
+</resources>

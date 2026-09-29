@@ -1,0 +1,49 @@
+{
+  "project_info": {
+    "project_number": "433110323393",
+    "firebase_url": "https://artopia-54e07-default-rtdb.firebaseio.com",
+    "project_id": "artopia-54e07",
+    "storage_bucket": "artopia-54e07.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:433110323393:android:5ffb3143bd70b951600440",
+        "android_client_info": {
+          "package_name": "com.example.artopiacontrol"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBofYNt2M3u8QU4CrMToExt5q9g0xLnB3g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:433110323393:android:36d11be09899afea600440",
+        "android_client_info": {
+          "package_name": "com.example.myapplication"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBofYNt2M3u8QU4CrMToExt5q9g0xLnB3g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
